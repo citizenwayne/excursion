@@ -1,5 +1,6 @@
 html {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
+   
 }
 
 h3 {
@@ -15,5 +16,38 @@ h3 {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
-    text-align: center;
+    
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:  gray;
+    font-weight: lighter;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    color: gray;
+    font-weight: bolder;
 }
